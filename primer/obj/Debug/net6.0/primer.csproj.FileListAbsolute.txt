@@ -1,0 +1,15 @@
+/home/son/GB_programming/primer/bin/Debug/net6.0/primer
+/home/son/GB_programming/primer/bin/Debug/net6.0/primer.deps.json
+/home/son/GB_programming/primer/bin/Debug/net6.0/primer.runtimeconfig.json
+/home/son/GB_programming/primer/bin/Debug/net6.0/primer.dll
+/home/son/GB_programming/primer/bin/Debug/net6.0/primer.pdb
+/home/son/GB_programming/primer/obj/Debug/net6.0/primer.csproj.AssemblyReference.cache
+/home/son/GB_programming/primer/obj/Debug/net6.0/primer.GeneratedMSBuildEditorConfig.editorconfig
+/home/son/GB_programming/primer/obj/Debug/net6.0/primer.AssemblyInfoInputs.cache
+/home/son/GB_programming/primer/obj/Debug/net6.0/primer.AssemblyInfo.cs
+/home/son/GB_programming/primer/obj/Debug/net6.0/primer.csproj.CoreCompileInputs.cache
+/home/son/GB_programming/primer/obj/Debug/net6.0/primer.dll
+/home/son/GB_programming/primer/obj/Debug/net6.0/refint/primer.dll
+/home/son/GB_programming/primer/obj/Debug/net6.0/primer.pdb
+/home/son/GB_programming/primer/obj/Debug/net6.0/primer.genruntimeconfig.cache
+/home/son/GB_programming/primer/obj/Debug/net6.0/ref/primer.dll
